@@ -31,6 +31,3 @@ Software development, optimizing performance, ReactJS and FastAPI best practices
 Feel free to contact me at ddkamble2141@gmail.com or connect with me on LinkedIn: Dipa Kamble.
 
 ### 😄 Pronouns: She/Her
-
-### ⚡ Fun Fact:
-I built a Food Recipe App that connects to external APIs to recommend personalized recipes based on user preferences, showcasing my passion for both AI-driven solutions and UX/UI design.
