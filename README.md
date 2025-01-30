@@ -1,9 +1,11 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Sonukamble/Sonukamble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Dipa Kamble**, a passionate software developer who loves solving complex problems and building scalable solutions.
 
-Here are some ideas to get you started:
+### 💻 What I Do
+- Develop and deploy backend systems with **FastAPI**, **Django**, and **Python**.
+- Craft dynamic, user-friendly interfaces using **ReactJS** and **TypeScript**.
+- Optimize and manage databases with **PostgreSQL** and **MySQL**.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
