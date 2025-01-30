@@ -7,6 +7,12 @@ I'm **Dipa Kamble**, a passionate software developer who loves solving complex p
 - Craft dynamic, user-friendly interfaces using **ReactJS** and **TypeScript**.
 - Optimize and manage databases with **PostgreSQL** and **MySQL**.
 
+### 🛠️ Skills
+**Languages:** Python, JavaScript, TypeScript, SQL , Core java 
+**Frameworks:** FastAPI, Django, ReactJS  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Other Tools:** Docker, Git, JWT Authentication, CI/CD, Performance Optimization
+
 ### 🔭 Current Projects:
 I’m currently working on the Resume Filter Project, automating resume filtering and evaluation by leveraging GenAI capabilities combined with ReactJS, FastAPI, and MySQL to streamline HR processes and improve recruitment efficiency.
 
